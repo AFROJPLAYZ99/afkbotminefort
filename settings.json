@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AfjCity09",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "afjnetwork.aternos.me",
-    "port": 42241,
+    "ip": "afjcity.minefort.com",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "AfjCity"
     },
     "anti-afk": {
       "enabled": true,
